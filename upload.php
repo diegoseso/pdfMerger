@@ -52,7 +52,8 @@ Class upload
         }    
         
         $pdf->merge('browser', dirname( __FILE__ ) . 'merged.pdf');
-
+        $uploadDir = dirname( __FILE__ ).'uploads';
+        exec( 'rm -Rf '. $uploadDir );
     }
 }
 
