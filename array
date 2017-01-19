@@ -1,0 +1,7 @@
+Array ( [pdfs] => Array ( [name] => Array ( [1] => file1.pdf [2] => file2.pdf ) 
+                          [type] => Array ( [1] => application/pdf [2] => application/pdf ) 
+                          [tmp_name] => Array ( [1] => /tmp/phpkZLf7u [2] => /tmp/phpKTFEKd ) 
+                          [error] => Array ( [1] => 0 [2] => 0 )
+                          [size] => Array ( [1] => 2503608 [2] => 2575668 ) 
+                         )
+       ) 
